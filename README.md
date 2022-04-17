@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmed Mohamed   <img src="https://komarev.com/ghpvc/?username=ahmed192a&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed192a" />
 
 - A passionate Embedded developer from Egypt
-- see my last projects from [HERE](https://github.com/ahmed192a/ahmed192a/blob/master/projects.md)
+- See my previous projects from [HERE](https://github.com/ahmed192a/ahmed192a/blob/master/projects.md)
 - 🔭 I’m currently working on **Adaptive Autosar platform**
 
 ### 🤝🏻 &nbsp;Connect with Me 📫
