@@ -8,7 +8,6 @@
 ## Ain Shams University Projects
 ### Graduation Project
 Flashing Adapter for Adaptive AUTOSAR.<br>
-Under Progress....
 ### Image Processing & Pattern Recognition
 * Image Processing & Pattern Recognition   [repo](https://github.com/ahmed192a/ImageProcessing-PatternRecognition)
 ### System verilog/Verilog
