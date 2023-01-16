@@ -1,13 +1,16 @@
-# Hi 👋, I'm Ahmed Mohamed   <img src="https://komarev.com/ghpvc/?username=ahmed192a&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed192a" />
+# Hi 👋, I'm Ahmed Mohamed   
 
 - A passionate Embedded developer from Egypt
 - See my previous projects from [HERE](https://github.com/ahmed192a/ahmed192a/blob/master/projects.md)
 - 🔭 I’m currently working on **Adaptive Autosar platform**
 
 ## status
-![status](https://badge.stateful.com/ahmed192a/status.svg)
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ahmed192a&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed">
+ <img src="https://badge.stateful.com/ahmed192a/status.svg" alt "status">
+ <img src="https://badge.stateful.com/ahmed192a/dnd.svg" alt "status">
 
-![status](https://badge.stateful.com/ahmed192a/dnd.svg)
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me 📫
 <p  align="center">
