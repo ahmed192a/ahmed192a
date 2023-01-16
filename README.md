@@ -54,5 +54,6 @@
 <!--  ![Ahmed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahmed192a&theme=redical&hide_border=true&area=true) -->
 | ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed192a&show_icons=true&theme=radical)             | ![Ahmed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed192a&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed192a&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmed192a&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
+<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed192a&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmed192a&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+ -->
