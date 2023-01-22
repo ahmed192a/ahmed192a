@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=ahmed192a&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed">
  <img src="https://badge.stateful.com/ahmed192a/status.svg" alt "status">
  <img src="https://badge.stateful.com/ahmed192a/dnd.svg" alt "status">
-
+<img src="https://wakatime.com/badge/user/4fea6d64-0fbe-4289-9419-db52a870178d.svg" alt="Total time coded since Apr 30 2022" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me 📫
