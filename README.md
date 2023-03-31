@@ -1,3 +1,14 @@
+<div align="left">
+ <a href="https://api.daily.dev/get?r=ahmed192a" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/379bb2fc933043969573365f4c42ef6c.png?r=nn5"
+      alt="Ahmed Abd El-Hamed's Dev Card"
+    />
+  </a>
+</div>
+
 # Hi 👋, I'm Ahmed Mohamed   
 
 - A passionate Embedded developer from Egypt
