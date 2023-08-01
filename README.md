@@ -14,6 +14,7 @@
 - A passionate Embedded developer from Egypt
 - See my previous projects from [HERE](https://github.com/ahmed192a/ahmed192a/blob/master/projects.md)
 - 🔭 I’m currently working on **Adaptive Autosar platform**
+- potfolio (ahmed)[https://ahmed192a.github.io/ahmed.io/]
 
 ## status
 <p align="center">
